@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zullinira
+- 👋 Hi, I’m Zullinira Dwi Utami. I'm a master degree of science from Bandung Institute of Technology (ITB)
 - 👀 I’m interested in processing and visualization data
 - 🌱 I’m currently learning about Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on data scientist, data analyst job or related field

@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Zullinira Dwi Utami. I'm a master degree of science from Bandung Institute of Technology (ITB)
-- 👀 I’m interested in processing and visualization data
+- 👋 Hi, I’m Zullinira Dwi Utami. I'm a graduate student of science from Bandung Institute of Technology (ITB)
+- 👀 I'm interested in processing, visualizing and modeling data
 - 🌱 I’m currently learning about Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on data scientist, data analyst job or related field
 - 📫 Please contact me in email : zullinira23@gmail.com
